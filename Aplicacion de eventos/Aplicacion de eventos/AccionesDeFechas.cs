@@ -3,7 +3,7 @@ using System;
 
 namespace Aplicacion_de_eventos
 {
-    public class CalcularDiferenciaDeFechas : ICalcularDiferenciaDeFechas
+    public class AccionesDeFechas : IAccionesDeFechas
     {
         public double CalcularDiferencia(DateTime fecha)
         {
@@ -12,7 +12,7 @@ namespace Aplicacion_de_eventos
             return horas;
         }
 
-        public string ValidarFecha(IEvento evento)
+        public string ValidarVerboPorFecha(IEvento evento)
         {
 
             string respuesta;
@@ -29,7 +29,7 @@ namespace Aplicacion_de_eventos
 
         }
 
-        public string EvaluarFecha(double tiempo)
+        public string EvaluarTiempo(double tiempo)
         {
             double minutos;
             double cantidad;

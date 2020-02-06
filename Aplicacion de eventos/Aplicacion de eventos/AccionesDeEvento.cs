@@ -3,7 +3,7 @@ using System;
 
 namespace Aplicacion_de_eventos
 {
-    public class GuardarEvento : IGuardarEvento
+    public class AccionesDeEvento : IAccionesDeEvento
     {
         public IEvento GuardarNuevoEvento(string evento, DateTime fecha, string Tiempo)
         {
