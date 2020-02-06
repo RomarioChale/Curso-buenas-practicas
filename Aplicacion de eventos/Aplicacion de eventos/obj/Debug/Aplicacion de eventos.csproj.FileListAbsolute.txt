@@ -5,3 +5,10 @@ C:\Users\edwin.chale\source\repos\Aplicacion de eventos\Aplicacion de eventos\ob
 C:\Users\edwin.chale\source\repos\Aplicacion de eventos\Aplicacion de eventos\obj\Debug\Aplicacion de eventos.csproj.CoreCompileInputs.cache
 C:\Users\edwin.chale\source\repos\Aplicacion de eventos\Aplicacion de eventos\obj\Debug\Aplicacion de eventos.exe
 C:\Users\edwin.chale\source\repos\Aplicacion de eventos\Aplicacion de eventos\obj\Debug\Aplicacion de eventos.pdb
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventos\bin\Debug\Aplicacion de eventos.exe.config
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventos\bin\Debug\Aplicacion de eventos.exe
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventos\bin\Debug\Aplicacion de eventos.pdb
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventos\obj\Debug\Aplicacion de eventos.csprojAssemblyReference.cache
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventos\obj\Debug\Aplicacion de eventos.csproj.CoreCompileInputs.cache
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventos\obj\Debug\Aplicacion de eventos.exe
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventos\obj\Debug\Aplicacion de eventos.pdb

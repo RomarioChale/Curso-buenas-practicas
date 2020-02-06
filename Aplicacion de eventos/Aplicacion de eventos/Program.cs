@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace Aplicacion_de_eventos
 {
     class AplicacionDeEventos
     {
-        readonly string archivo = @"C:\Users\edwin.chale\Desktop\Eventos.txt";
-       
+        //readonly string archivo = @"C:\Users\edwin.chale\Desktop\Eventos.txt";
+        readonly string archivo = Path.GetFullPath("Eventos.txt");
+
         string tiempo;
         readonly char[] charSeparators = new char[] { ',' };
         readonly DateTime fechaActual = DateTime.Now;
@@ -33,8 +35,9 @@ namespace Aplicacion_de_eventos
             foreach (var items in list)
             {
                 Console.WriteLine(items);
-                Console.ReadLine();
             }
+            Console.ReadLine();
+
 
         }
 
