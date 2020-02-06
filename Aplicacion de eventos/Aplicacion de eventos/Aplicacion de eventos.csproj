@@ -43,7 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="AplicacionDeEventos.cs" />
+    <Compile Include="CalcularDiferenciaDeFechas.cs" />
+    <Compile Include="Evento.cs" />
+    <Compile Include="GuardarEvento.cs" />
+    <Compile Include="Interfaces\ICalcularDiferenciaDeFechas.cs" />
+    <Compile Include="Interfaces\IEvento.cs" />
+    <Compile Include="Interfaces\IGuardarEvento.cs" />
+    <Compile Include="Interfaces\ITiempo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
