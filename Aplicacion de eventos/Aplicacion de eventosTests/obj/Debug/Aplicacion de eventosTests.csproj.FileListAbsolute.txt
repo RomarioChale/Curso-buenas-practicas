@@ -1,0 +1,28 @@
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\obj\Debug\Aplicacion de eventosTests.csprojAssemblyReference.cache
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\obj\Debug\Aplicacion de eventosTests.csproj.CoreCompileInputs.cache
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Aplicacion de eventosTests.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Aplicacion de eventosTests.pdb
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Aplicacion de eventos.exe
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Castle.Core.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Moq.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Aplicacion de eventos.pdb
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Aplicacion de eventos.exe.config
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Castle.Core.xml
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\Moq.xml
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\obj\Debug\Aplicacion de eventosTests.csproj.CopyComplete
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\obj\Debug\Aplicacion de eventosTests.dll
+C:\Users\edwin.chale\Documents\Aplicacion de eventos\Curso-buenas-practicas\Aplicacion de eventos\Aplicacion de eventosTests\obj\Debug\Aplicacion de eventosTests.pdb

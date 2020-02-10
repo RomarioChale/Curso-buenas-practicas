@@ -44,14 +44,30 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AplicacionDeEventos.cs" />
-    <Compile Include="AccionesDeFechas.cs" />
-    <Compile Include="Evento.cs" />
-    <Compile Include="AccionesDeEvento.cs" />
-    <Compile Include="Interfaces\IAccionesDeFechas.cs" />
-    <Compile Include="Interfaces\IEvento.cs" />
-    <Compile Include="Interfaces\IAccionesDeEvento.cs" />
-    <Compile Include="Interfaces\ITiempo.cs" />
+    <Compile Include="Servicios\CalcularDiferenciaDeFechas.cs" />
+    <Compile Include="Servicios\AsignadorDeEventos.cs" />
+    <Compile Include="Servicios\IAsignadorDeEventos.cs" />
+    <Compile Include="Servicios\IConstruirRespuestaEvento.cs" />
+    <Compile Include="Servicios\Interfaces\IBuscadorDeArchivos.cs" />
+    <Compile Include="Servicios\Interfaces\ILectorDeArchivos.cs" />
+    <Compile Include="Servicios\Interfaces\IValidarTiempoDeEvento.cs" />
+    <Compile Include="Servicios\Interfaces\IValidadorTipoArchivo.cs" />
+    <Compile Include="Servicios\IValidarTiempoDeEvento1.cs" />
+    <Compile Include="Servicios\MostrarDatosEvento.cs" />
+    <Compile Include="Servicios\ValidadorTipoArchivo.cs" />
+    <Compile Include="Servicios\ValidarTiempoDeEvento.cs" />
+    <Compile Include="Utilerias\Estatus.cs" />
+    <Compile Include="Utilerias\Evento.cs" />
+    <Compile Include="Servicios\Interfaces\IAccionesDeFechas.cs" />
+    <Compile Include="Servicios\Interfaces\IEvento.cs" />
+    <Compile Include="Servicios\Interfaces\IAccionesDeEvento.cs" />
+    <Compile Include="Servicios\Interfaces\ITiempo.cs" />
+    <Compile Include="Servicios\BuscadorDeArchivos.cs" />
+    <Compile Include="Servicios\LectorDeArchivos.cs" />
+    <Compile Include="Utilerias\NotFoundException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilerias\TipoArchivo.cs" />
+    <Compile Include="Utilerias\UnidadTiempo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
